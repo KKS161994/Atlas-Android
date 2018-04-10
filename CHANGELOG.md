@@ -1,5 +1,10 @@
 # Atlas Android
 
+## 0.4.22-pre
+
+### Major Changes
+  * Update to Layer Android SDK Version 4.0.0
+
 ## 0.4.21
 
 ### Major Changes
